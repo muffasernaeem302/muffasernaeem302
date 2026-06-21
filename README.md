@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Muffaser Naeem</h1>
-<h3 align="center">Full-Stack Developer | Building things with code, curiosity, and a bit of caffeine</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=220&section=header&text=Muffaser%20Naeem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descSize=22" width="100%"/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Building+things+with+code+%F0%9F%92%BB;Always+learning%2C+always+shipping+%F0%9F%9A%80;Bit+curious+about+what's+next+%F0%9F%8C%B1;Welcome+to+my+profile!+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muffaser-naeem-943475382/" target="_blank">
@@ -8,6 +13,10 @@
   <a href="mailto:muffasernaeem302@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="180" />
 </p>
 
 ---
@@ -23,26 +32,18 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Languages** *(hover to see them bounce ↓)*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js" />
 </p>
 
 **Tools & IDEs**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code::Blocks-0D6EFD?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,codeblocks" />
   <img src="https://img.shields.io/badge/AI_Tools-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
@@ -81,4 +82,16 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muffasernaeem302/muffasernaeem302/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> ⚠️ This animates automatically once you add the snake GitHub Action — setup steps below.
+
+---
+
 <p align="center"><i>Always learning, always building. Let's connect!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=120&section=footer" width="100%"/>
